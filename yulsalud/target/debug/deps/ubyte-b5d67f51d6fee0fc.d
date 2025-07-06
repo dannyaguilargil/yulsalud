@@ -1,0 +1,11 @@
+C:\Users\Invitado_qqta\Desktop\yulsalud\yulsalud\target\debug\deps\ubyte-b5d67f51d6fee0fc.d: C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\lib.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\arithmetic.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\byte_unit.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\parse.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\Invitado_qqta\Desktop\yulsalud\yulsalud\target\debug\deps\libubyte-b5d67f51d6fee0fc.rlib: C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\lib.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\arithmetic.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\byte_unit.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\parse.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\Invitado_qqta\Desktop\yulsalud\yulsalud\target\debug\deps\libubyte-b5d67f51d6fee0fc.rmeta: C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\lib.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\arithmetic.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\byte_unit.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\parse.rs C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\lib.rs:
+C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\arithmetic.rs:
+C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\byte_unit.rs:
+C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\parse.rs:
+C:\Users\Invitado_qqta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ubyte-0.10.4\src\ser_de.rs:
